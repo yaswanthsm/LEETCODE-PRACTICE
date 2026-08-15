@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0877-stone-game) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
