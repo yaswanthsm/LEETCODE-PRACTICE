@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0001-two-sum) |
 | [0877-stone-game](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0877-stone-game) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
