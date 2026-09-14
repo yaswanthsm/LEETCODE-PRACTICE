@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0007-reverse-integer) |
+| [0836-rectangle-overlap](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/3536-maximum-product-of-two-digits) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
