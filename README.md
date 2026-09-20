@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0058-length-of-last-word) |
 | [0709-to-lower-case](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0709-to-lower-case) |
+| [3498-reverse-degree-of-a-string](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
 | [4030-check-ascii-palindromic](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/4030-check-ascii-palindromic) |
 ## Database
 |  |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4030-check-ascii-palindromic](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/4030-check-ascii-palindromic) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
