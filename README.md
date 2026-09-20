@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0877-stone-game](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0877-stone-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [4030-check-ascii-palindromic](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/4030-check-ascii-palindromic) |
 ## Bit Manipulation
 |  |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
