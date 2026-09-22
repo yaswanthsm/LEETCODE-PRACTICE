@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0877-stone-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -76,4 +77,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
