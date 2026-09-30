@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0877-stone-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2553-separate-the-digits-in-an-array](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/2553-separate-the-digits-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3842-toggle-light-bulbs](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/3842-toggle-light-bulbs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
 | [3842-toggle-light-bulbs](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/3842-toggle-light-bulbs) |
 ## Binary Search
