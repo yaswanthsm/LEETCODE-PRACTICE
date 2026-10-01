@@ -18,5 +18,3 @@ class Solution(object):
             else:
                 stack.append(char)
         return len(stack)==0
-
-        
