@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0058-length-of-last-word) |
 | [0709-to-lower-case](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0709-to-lower-case) |
 | [3498-reverse-degree-of-a-string](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0704-binary-search) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yaswanthsm/LEETCODE-PRACTICE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
